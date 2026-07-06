@@ -37,3 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 # mini-competitions
 # mini-auth
+# mini-cartly
